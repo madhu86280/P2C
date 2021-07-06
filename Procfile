@@ -1,1 +1,1 @@
-web: gunicorn p2c.wsgi
+web: gunicorn CCMS.wsgi --log-file -
